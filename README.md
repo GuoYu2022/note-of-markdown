@@ -1,3 +1,4 @@
+[推荐语法链接](http://younghz.github.io/Markdown/)
 # note-of-markdown #
 
 # 这是一级标题 #
